@@ -6,6 +6,6 @@ sauce demo test automation with Selenium(java) using POM and Cucumber
 3. build maven
 4. and then simply run all tests
 
-Thanks 
-Muzammil Hussain (SQA Automation Engineer)
+Thanks
+# Muzammil Hussain (SQA Automation Engineer)
 
