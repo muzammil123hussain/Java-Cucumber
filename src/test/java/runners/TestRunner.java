@@ -10,7 +10,7 @@ import pages.DriverFactory;
 @CucumberOptions(
         features = "src/test/resources/features",
         glue = "stepDefinitions",
-        plugin = {"pretty", "html:target/cucumber-reports"}
+        plugin = {"pretty", "html:target/cucumber-reports.html"}
 )
 public class TestRunner {
 
